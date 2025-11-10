@@ -18,8 +18,6 @@ Here are the most critical, transferable principles from your style guide.
 - **Use concise affirmations**
 - **Use direct, informal inquiries.**
 - **Relatable Encouragement**
-- **Corporate & Strategy:** `flywheel`, `platform`, `verticals`, `marketplace`, `synergy`, `TAM` (Total Addressable Market), `P&L`, `GBs` (Gross Bookings)
-- **Uber-Specific:** `Dara`, `Delivery / Mobility`, `OFD` (Online Food Delivery), `GR` (Grocery & Retail), `Eaters / Merchants / Couriers`, `UberX`, `TripObsessed`, `OneUber`
 
 ### Sentence Structure
 - **Vary length:** Mix short, punchy declarations with longer, complex sentences that explain your reasoning.
