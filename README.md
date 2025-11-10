@@ -2,6 +2,9 @@
 
 *One installation. Infinite expert workflows.* GEM turns Google Gemini into a single, orchestrated system that can analyze, write, prototype, and engineer prompts without ever leaving the thread. The entire stack lives in markdown "skill files" so you can ship updates at the speed of thought (turns out Google had skills before Claude, this whole time!).
 
+
+*Try the GEM out here for yourself:* https://gemini.google.com/gem/1XkWAKL7KNcnyrmXk8M9UGg99e08V8m9p?usp=sharing
+
 ---
 
 ## Why Builders will Love this live-GEM approach
