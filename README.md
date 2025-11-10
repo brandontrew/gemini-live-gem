@@ -1,4 +1,4 @@
-# GEM: The Unified Skill Platform
+# "Live" Google Doc GEM instructions: The Unified Skill Platform
 
 *One installation. Infinite expert workflows.* GEM turns Google Gemini into a single, orchestrated system that can analyze, write, prototype, and engineer prompts without ever leaving the thread. The entire stack lives in markdown "skill files" so you can ship updates at the speed of thought (turns out Google had skills before Claude, this whole time!).
 
