@@ -1,5 +1,7 @@
 /archive/
 /documentation/
 /src/GEM-DMP.md
+/src/GEM-CORE-IDEAS.md
 .cursor/
+.gitignore
 
